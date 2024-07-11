@@ -11,7 +11,7 @@ int main()
 
     if (!(N >= 1 && N <= 1000))
     {
-        printf("input of range\n");
+        printf("input out of range\n");
         exit(-1);
     }
 
